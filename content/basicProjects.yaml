@@ -1,0 +1,25 @@
+- title: MRS Oficina
+  role: Designer, UX/UI, Developer
+  completed: '2020'
+  client: "Corks & Screws"
+  personalproject: false
+  link:
+    url: 'http://google.com'
+  source:
+    url: 'http://github.com'
+- title: Parapupi Cogumelos
+  role: Designer, UX/UI, Developer
+  completed: '2019'
+  client: Corks & Screws
+  personalproject: true
+  link:
+    url: 'http://google.com'
+  source:
+    url: 'http://github.com'
+- title: hey Project
+  role: Designer, UX/UI, Developer
+  completed: '2017'
+  client: PPE's
+  personalproject: true
+  source:
+    url: 'http://github.com'
